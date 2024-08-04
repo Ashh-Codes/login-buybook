@@ -1,0 +1,40 @@
+.loginbg{
+    background-image: url(https://wallpaperaccess.com/full/1543409.jpg);
+    background-size: cover;
+}
+.card{
+  height: 500px;
+  border: 2px solid white;
+  backdrop-filter: blur(10px);
+  background: transparent;
+}
+.title-login{
+  text-align: center;
+  color: white;
+  
+}
+#text{
+    background-image: url(https://library.wustl.edu/wp-content/uploads/2015/10/Research-Library_books.jpg);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 50px;
+    font-weight: 700;
+}
+.btn{
+    height: 40px;
+    width:100px ;
+    color:white;
+    background-color: brown;
+    border: none;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.forgot{
+    color: white;
+    text-decoration: none;
+   
+}
